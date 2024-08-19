@@ -1,0 +1,6 @@
+@import url("../../styles/global.css");
+
+body {
+  font-family: monospace;
+  color: blue;
+}

@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  justify-content: stretch;
+  align-items: stretch;
+}
+
+main {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: stretch;
+  align-items: stretch;
+}
+
+iframe {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
